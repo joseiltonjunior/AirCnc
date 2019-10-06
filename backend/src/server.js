@@ -1,5 +1,8 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const cors = require('cors');
+
+
 const routes = require('./routes');
 
 const app = express();
@@ -13,6 +16,7 @@ mongoose.connect('mongodb+srv://omnistack:omnistack@oministack-kgcvl.mongodb.net
 // req.params = acessa o route params
 // req.body = acessa o corpo da requisição
 
+app.use(cors());
 app.use(express.json());
 app.use(routes);
 
