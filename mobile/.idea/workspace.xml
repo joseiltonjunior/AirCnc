@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -33,11 +33,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="120" />
-    <option name="y" value="110" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="505" />
+    <option name="y" value="139" />
     <option name="width" value="1143" />
-    <option name="height" value="833" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -45,7 +45,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -58,6 +57,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -91,7 +91,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="120" y="110" width="1143" height="833" extended-state="0" />
+    <frame x="505" y="139" width="1143" height="735" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
@@ -110,6 +110,9 @@
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/App.js">
