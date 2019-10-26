@@ -20,7 +20,7 @@ export default function List() {
     <SafeAreaView style={styles.container}>
       <Image style={styles.logo} source={logo} />
       <ScrollView>
-        {techs.map(tech => <SpotList key={tech} tech="VueJS" />)}
+        {techs.map(tech => <SpotList key={tech} tech="React JS" />)}
       </ScrollView>
     </SafeAreaView>
   )
@@ -35,6 +35,6 @@ const styles = StyleSheet.create({
     height: 32,
     resizeMode: "contain",
     alignSelf: "center",
-    marginTop: 45,
+    marginTop: 35,
   },
 });
