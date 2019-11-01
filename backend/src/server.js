@@ -17,19 +17,19 @@ mongoose.connect('mongodb+srv://omnistack:omnistack@oministack-kgcvl.mongodb.net
     useUnifiedTopology: true,
 });
 
-const connectedUsers = {
-
-};
+const connectedUsers = {};
 
 io.on('connection', socket => {
     const { user_id } = socket.handshake.query;
 
     connectedUsers[user_id] = socket.id;
-
 });
 
 app.use((req, res, next) => {
+    req.io = io;
+    req.connectedUsers = connectedUsers;
 
+    return next();
 });
 
 // req.query = acessa o query params
