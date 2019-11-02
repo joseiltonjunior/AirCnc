@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="871757a1-f77b-48f3-ae0d-20eb77f14061" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../backend/src/controllers/BookingController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/controllers/BookingController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../frontend/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/pages/Dashboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/pages/Dashboard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/src/pages/Dashboard/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/pages/Dashboard/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/api.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +46,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -63,7 +59,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
