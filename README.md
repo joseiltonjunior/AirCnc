@@ -1,14 +1,5 @@
-# Semana Omnistack
+# Projeto AirCnc
 
- Workshop sobre Node, React e React Native ministrado pela Rocketseat.
+ Projeto da Semana Omnistack, desenvolvido com Node.js, React e React Native, ministrado pela Rocketseat.
 
- ## Back-end
- OK
-
- ## Front-end
- OK
-
- ## Mobile
- OK
-
- # Finalizado
+ 
